@@ -1,0 +1,112 @@
+        body{
+    		background-repeat: no-repeat;
+    		background-size: 100% 100%;
+    		background-position: right-top;
+    		background-attachment: fixed;
+    		background-color: black;
+    	}
+    	li{
+    		position: right;
+    		margin: 20px;
+    		padding: 10px;
+    	}
+    	p{
+    		color: white;
+            text-indent: 10px;
+
+    	}
+    	img{
+    		height: 12em;
+    		width: 1373px;
+    		vertical-align: center;
+            fixed: 50%/cover;
+            margin: 0 auto;
+            width: 100%;
+            padding: 2%;
+    	}
+    	a{
+    		font-size: 15px;
+    		font-family: white;
+            position: right;
+    	}
+    	h1{
+    		color: white;
+    		font-family: white;
+    	}
+        #bluetext{
+            color: blue;
+        }
+        #redtext{
+            color: red;
+        }
+        #greentext{
+            color: green;
+        }
+    
+        form label {
+        display: block;
+        width: 290px;
+        padding: 5px;
+        margin: 0;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: bold;
+        background: red;
+        color: #fff;
+         }
+        input{
+        width: 290px;
+        padding: 5px;
+        margin: 0;
+        line-height: normal;
+         }
+        textarea{
+        width: 290px;
+        padding: 5px;
+        margin: 0;
+        }
+        form input, form textarea {
+        display: block;
+        width: 290px;
+        padding: 5px;
+        margin: 0 0 10px;
+        border: none;
+        font-size: 22px;
+        font-family: Georgia, Times, serif;
+        font-style: italic;
+        color: #000;
+        }
+        label {
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 5px;
+        font-weight: 700;
+                }
+        .page-title h1 {
+        font-size: 5em;
+        font-family: 'Raleway', sans-serif;
+        }
+        h1 {
+        text-align: center;
+        font-size: 48px;
+            }
+        
+            }
+         h1, h2, h3, h4, h5, h6 {
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.1;
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 36px;
+        
+                } 
+        form {
+        text-align: left;
+        width: 300px;
+        margin: 20px auto 0;
+        }
+
+    
+
